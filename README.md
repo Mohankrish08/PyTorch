@@ -15,5 +15,9 @@ Most of the YouTubers code in TensorFlow, In this Repo, I used to convert the Te
 
 You can refer and this video - https://www.youtube.com/watch?v=jztwpsIzEGc&t=9s
 
+#### Hackthon 
 
+1. E-Yentra 
+
+Binary classification using PyTorch
 
