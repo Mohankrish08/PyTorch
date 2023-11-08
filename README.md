@@ -1,5 +1,10 @@
 # PyTorch
 
+1. Clone this repo
+
+    ```bash
+    git clone https://github.com/Mohankrish08/PyTorch
+
 ![](https://github.com/Mohankrish08/PyTorch/blob/main/images/Pytorch.png)
 
 # [Fundamentals](https://github.com/Mohankrish08/PyTorch/tree/main/Fundamentals)
