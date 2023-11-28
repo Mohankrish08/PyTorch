@@ -26,3 +26,10 @@ You can refer and this video - https://www.youtube.com/watch?v=jztwpsIzEGc&t=9s
 
 Binary classification using PyTorch
 
+
+#### Classification 
+
+- MNIST dataset
+- Make circles dataset
+- Multiclass classification 
+
